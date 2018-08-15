@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="这是xiaoxiaojing的测试组件啊">
+    <test name="xiaoxiaojing测试模块">
+        <classes>
+            <class name="chpter7.class4.practice.ReporterLog">
+                <methods>
+                    <include name="test2"/>
+                    <include name="test1"/>
+                    <include name="test3"/>
+                    <include name="ReportLog"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <!--<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>-->
+        <listener class-name="com.tester.extend.demo.ExtentTestNGIReporterListener"/>
+    </listeners>
+</suite>
+
+
+
+

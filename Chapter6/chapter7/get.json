@@ -1,0 +1,16 @@
+[
+  {
+    "description": "这是一个带参数的get请求啊",
+    "request": {
+      "uri": "/get",
+      "method": "get",
+      "queries": {
+        "name": "xiaoxiaojing",
+        "age": 27
+      }
+    },
+    "response": {
+      "text": "这是带参数的get请求返回结果啊"
+    }
+  }
+]
