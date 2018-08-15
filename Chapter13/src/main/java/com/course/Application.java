@@ -1,3 +1,4 @@
+/*
 package com.course;
 
 import org.springframework.boot.SpringApplication;
@@ -12,3 +13,4 @@ public class Application {
         SpringApplication.run(Application.class,args);
     }
 }
+*/

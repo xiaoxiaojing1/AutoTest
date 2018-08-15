@@ -1,3 +1,4 @@
+/*
 package com.course.cases;
 
 import com.course.config.TestConfig;
@@ -64,3 +65,4 @@ public class GetUserInfoTest {
         return array;
     }
 }
+*/
