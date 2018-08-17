@@ -74,6 +74,7 @@ public class MyCookiesForGet {
             String result = EntityUtils.toString(response.getEntity(),"utf-8");
             System.out.println(result);
         }
+
     }
 
 

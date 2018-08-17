@@ -24,6 +24,17 @@
     "response":{
       "text":"我胡汉三又回来啦！！！！"
     }
+  },
+
+  {
+    "description":"这是一个post请求啊",
+    "request":{
+      "uri":"/post",
+      "method":"post"
+    },
+    "response":{
+      "text":"这是post请求返回结果啊"
+    }
   }
 
 ]

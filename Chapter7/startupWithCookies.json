@@ -7,7 +7,8 @@
     },
     "response":{
       "cookies":{
-        "login":"true"
+        "status":"20",
+        "login":"true1"
       },
       "text":"恭喜你获得cookies信息成功"
     }
