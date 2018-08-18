@@ -2,13 +2,11 @@
   {
     "description": "这是一个会返回cookies信息的get请求",
     "request": {
-      "uri": "/getCookies1",
-      "method": "get"
+      "uri": "/getCookies1"
     },
     "response": {
       "cookies": {
-        "login": "true",
-        "wunaile":"wunaile"
+        "login": "true"
       },
       "text": "恭喜你获得cookies信息成功"
     }
@@ -78,8 +76,7 @@
         "Content-Type":"application/json"
       },
       "cookies":{
-        "login":"true",
-        "name":"xiaojing"
+        "login":"true"
       },
       "json":{
         "name":"xiaojing",
